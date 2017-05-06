@@ -1,6 +1,6 @@
 #!/bin/bash
 
-wget https://necolas.github.io/normalize.css/7.0.0/normalize.css -O src/utility/_normalize.scss
+wget https://raw.githubusercontent.com/necolas/normalize.css/master/normalize.css -O src/utility/_normalize.scss
 rm -r src/vendor && rm -r src/base
 mkdir -p test && cd test
 bourbon install && neat install && bitters install
