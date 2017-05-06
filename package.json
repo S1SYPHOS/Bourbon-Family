@@ -7,14 +7,14 @@
   "author": "S1SYPHOS <hello@twobrain.io>",
   "license": "MIT",
   "scripts": {
-    "start": "./update-script.sh",
     "setup": "npm install && bundle install",
-    "clean": "rm -r dist/*",
-    "node": "node-sass src/main.scss -o dist/main_node.css",
-    "ruby": "sass src/main.scss dist/main_ruby.css",
-    "test": "npm run clean && npm run node && npm run ruby"
+    "node": "node-sass src/main.scss -o dist/",
+    "ruby": "sass --sourcemap=none src/main.scss dist/main_ruby.css",
+    "test": "rimraf dist && npm run node && npm run ruby",
+    "update": "./update.sh"
   },
   "devDependencies": {
-    "node-sass": "^4.5.2"
+    "node-sass": "^4.5.2",
+    "rimraf": "^2.6.1"
   }
 }
