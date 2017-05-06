@@ -1,9 +1,15 @@
-@import "variables";
-
-@import "buttons";
-@import "forms";
-@import "layout";
-@import "lists";
-@import "media";
-@import "tables";
-@import "typography";
+@import
+  'vendor/bourbon/bourbon',
+  'vendor/neat/neat',
+  'utility/settings',
+  'utility/box-sizing',
+  'utility/normalize',
+  'utility/reset',
+  'base/buttons',
+  'base/forms',
+  'base/layout',
+  'base/lists',
+  'base/media',
+  'base/tables',
+  'base/typography'
+;

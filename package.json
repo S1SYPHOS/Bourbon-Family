@@ -1,0 +1,20 @@
+{
+  "name": "Bourbon-Family",
+  "version": "1.0.0",
+  "description": "Sass boilerplate starring Bourbon, Neat & Bitters, mixed up with some Normalize.css - ready to be served!",
+  "main": "src/main.scss",
+  "repository": "https://github.com/S1SYPHOS/Bourbon-Family.git",
+  "author": "S1SYPHOS <hello@twobrain.io>",
+  "license": "MIT",
+  "scripts": {
+    "start": "./update-script.sh",
+    "setup": "npm install && bundle install",
+    "clean": "rm -r dist/*",
+    "node": "node-sass src/main.scss -o dist/main_node.css",
+    "ruby": "sass src/main.scss dist/main_ruby.css",
+    "test": "npm run clean && npm run node && npm run ruby"
+  },
+  "devDependencies": {
+    "node-sass": "^4.5.2"
+  }
+}
