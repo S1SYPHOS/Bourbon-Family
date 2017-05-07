@@ -38,7 +38,7 @@ Normally after installing Bourbon, Neat & Bitters, you'd get this ..
     └── _neat.scss
 ```
 
-.. but since most of my projects are organized the [SMACSS](https://smacss.com) way, I wanted a simple drop-in solution. Sparing the need to install Normalize.css every time, I just included it, accompanied by custom resets (inspired by [inuitcss](https://github.com/inuitcss)) & box-sizing [inheritance](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/):
+.. but since most of my projects are organized the [SMACSS](https://smacss.com) way, I wanted a simple drop-in solution. Sparing the need to install Normalize.css every time, I just included it, accompanied by custom resets (inspired by [inuitcss](https://github.com/inuitcss)):
 
 ```
 ├── base
