@@ -11,7 +11,7 @@
     "node": "node-sass src/main.scss -o dist/",
     "ruby": "sass --sourcemap=none src/main.scss dist/main_ruby.css",
     "test": "rimraf dist && npm run node && npm run ruby",
-    "update": "./update.sh"
+    "update": "bundle update && ./update.sh"
   },
   "devDependencies": {
     "node-sass": "^4.5.2",
