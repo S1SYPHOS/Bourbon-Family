@@ -11,11 +11,11 @@ For testing / updating, have a look at `package.json`:
 
 ## Why?
 It's just a simple starter including bourbon + family (by [thoughtbot](https://thoughtbot.com/)) and Normalize.css (by [Nicolas Gallagher](http://nicolasgallagher.com/)):
-- Bourbon v5.0.0.beta.7 ([Github](https://github.com/thoughtbot/bourbon), [Website](http://bourbon.io))
-- Neat v2.0.0 ([Github](https://github.com/thoughtbot/neat), [Website](http://neat.bourbon.io/))
-- Bitters v1.5.0 ([Github](https://github.com/thoughtbot/bitters), [Website](http://bitters.bourbon.io/))
+- Bourbon v5.0.0.beta.8 ([Github](https://github.com/thoughtbot/bourbon), [Website](http://bourbon.io))
+- Neat v2.1.0 ([Github](https://github.com/thoughtbot/neat), [Website](http://neat.bourbon.io/))
+- Bitters v1.7.0 ([Github](https://github.com/thoughtbot/bitters), [Website](http://bitters.bourbon.io/))
 - Normalize.css v7.0.0 ([Github](https://github.com/necolas/normalize.css), [Website](http://necolas.github.io/normalize.css/))
-- .. also looking forward to Empties/Refills, but right now they are not compatible with Neat v2
+- .. also looking forward to [Refills](http://refills.bourbon.io/) (not compatible with Neat v2 at the moment)
 
 Normally after installing Bourbon, Neat & Bitters, you'd get this ..
 
