@@ -1,5 +1,5 @@
 # Bourbon-Family
-Sass boilerplate starring Bourbon, Neat &amp; Bitters, mixed up with some Normalize.css - ready to be served!
+Sass boilerplate starring Bourbon, Neat & Bitters, mixed up with some Normalize.css - ready to be served!
 
 ## Installation
 Simply download this repository and put everything inside the `src` folder where your `*.scss` files go - all partials are imported through `main.scss`.
