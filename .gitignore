@@ -1,5 +1,7 @@
 .sass-cache
+.bundle
 Gemfile.lock
 node_modules
 dist
 test
+bin
