@@ -5,7 +5,7 @@ Sass boilerplate starring Bourbon, Neat & Bitters, mixed up with some Normalize.
 Simply download this repository and put everything inside the `src` folder where your `*.scss` files go - all partials are imported through `main.scss`.
 For testing / updating, have a look at `package.json`:
 - `npm start`: Does nothing, this repo is really just for copy & paste.
-- `npm run setup`: Installs npm packages & ruby gems for testing purposes.
+- `npm run setup`: Installs npm packages & ruby gems for testing purposes (requires [Bundler](https://bundler.io/)).
 - `npm run test`: Creates two versions of `main.css` (ruby-sass + node-sass), making sure everything's working.
 - `npm run update`: Runs a (very) basic update script (use with caution).
 
