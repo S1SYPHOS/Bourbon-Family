@@ -1,4 +1,6 @@
 # Bourbon-Family
+[![Release](https://img.shields.io/github/release/S1SYPHOS/Bourbon-Family.svg)](https://github.com/S1SYPHOS/Bourbon-Family/releases) [![License](https://img.shields.io/github/license/S1SYPHOS/Bourbon-Family.svg)](https://github.com/S1SYPHOS/Bourbon-Family/blob/master/LICENSE) [![Issues](https://img.shields.io/github/issues/S1SYPHOS/Bourbon-Family.svg)](https://github.com/S1SYPHOS/Bourbon-Family/issues)
+
 Sass boilerplate starring Bourbon, Neat & Bitters, mixed up with some Normalize.css - ready to be served!
 
 ## Installation
