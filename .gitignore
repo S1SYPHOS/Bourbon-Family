@@ -2,6 +2,7 @@
 .bundle
 Gemfile.lock
 node_modules
+vendor
 dist
 test
 bin
