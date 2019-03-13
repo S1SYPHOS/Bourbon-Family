@@ -17,7 +17,7 @@ It's just a simple starter including bourbon + family (by [thoughtbot](https://t
 - Neat v3.0.1 ([Github](https://github.com/thoughtbot/neat), [Website](http://neat.bourbon.io))
 - Bitters v1.8.0 ([Github](https://github.com/thoughtbot/bitters), [Website](http://bitters.bourbon.io))
 - Normalize.css v8.0.1 ([Github](https://github.com/necolas/normalize.css), [Website](http://necolas.github.io/normalize.css))
-- .. also looking forward to [Refills](http://refills.bourbon.io/) (not compatible with Neat v2 at the moment)
+- .. also looking forward to [Refills](http://refills.bourbon.io/) - *sigh*
 
 Normally after installing Bourbon, Neat & Bitters, you'd get this ..
 
