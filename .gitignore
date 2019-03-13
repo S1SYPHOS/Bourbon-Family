@@ -2,7 +2,7 @@
 .bundle
 Gemfile.lock
 node_modules
-vendor
+package-lock.json
 dist
 test
 bin

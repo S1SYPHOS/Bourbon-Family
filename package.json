@@ -1,6 +1,6 @@
 {
   "name": "Bourbon-Family",
-  "version": "1.0.0",
+  "version": "2.1.0",
   "description": "Sass boilerplate starring Bourbon, Neat & Bitters, mixed up with some Normalize.css - ready to be served!",
   "main": "src/main.scss",
   "repository": "https://github.com/S1SYPHOS/Bourbon-Family.git",
@@ -14,7 +14,7 @@
     "update": "bundle update && ./update.sh"
   },
   "devDependencies": {
-    "node-sass": "^4.5.2",
-    "rimraf": "^2.6.1"
+    "node-sass": "^4.11.0",
+    "rimraf": "^2.6.3"
   }
 }
